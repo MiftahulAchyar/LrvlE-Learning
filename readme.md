@@ -11,6 +11,22 @@
 
 1.clone then composer install
 
+## Login examples
+There are three user roles here.
+1. Admin
+&nbsp; &nbsp; &nbsp; email: admin@mail.com
+&nbsp; &nbsp; &nbsp; password: student
+
+2. Teacher
+&nbsp; &nbsp; &nbsp; email: guru@mail.com
+&nbsp; &nbsp; &nbsp; password: teacher
+
+3. Student
+&nbsp; &nbsp; &nbsp; email: student@mail.com
+&nbsp; &nbsp; &nbsp; password: student
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
